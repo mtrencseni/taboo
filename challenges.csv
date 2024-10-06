@@ -1,0 +1,473 @@
+Michael Jordan,basketball,Bulls,NBA,23
+Lionel Messi,soccer,Barcelona,Argentina,GOAT
+Barack Obama,president,USA,Michelle,Democrat
+Twin Peaks,TV show,mystery,Dale Cooper,Laura Palmer
+Harry Potter,magic,wizard,Hogwarts,JK Rowling
+The Beatles,music,band,John Lennon,Paul McCartney
+Star Wars,space,film,Jedi,Sith
+The Great Wall of China,landmark,structure,China,Asia
+Eiffel Tower,Paris,France,landmark,iron
+Leonardo DiCaprio,actor,Hollywood,Oscar,Titanic
+Beyoncé,singer,Jay-Z,Destiny's Child,Queen
+The Godfather,film,mafia,Al Pacino,Marlon Brando
+Game of Thrones,TV show,dragons,Westeros,HBO
+The Simpsons,cartoon,Homer,Marge,Bart
+Mount Everest,mountain,Himalayas,highest,Nepal
+Coca-Cola,drink,soda,beverage,Pepsi
+Amazon,rainforest,river,Jeff Bezos,online shopping
+Albert Einstein,scientist,relativity,genius,physicist
+Walt Disney,animation,Mickey Mouse,Disneyland,cartoon
+The Mona Lisa,painting,Leonardo da Vinci,Louvre,portrait
+Elon Musk,Tesla,SpaceX,billionaire,entrepreneur
+Steve Jobs,Apple,iPhone,Mac,innovator
+Git,version control,repository,branch,commit
+Python,programming,language,code,snake
+Java,programming,language,coffee,OOP
+HTML,web,markup,language,tag
+CSS,style,web,design,stylesheet
+JavaScript,programming,web,language,script
+Machine Learning,AI,algorithm,data,model
+Artificial Intelligence,AI,machine learning,robot,smart
+Neural Network,AI,deep learning,model,brain
+Big Data,analytics,data,volume,velocity
+Data Mining,process,pattern,extract,information
+SQL,query,database,language,relational
+Blockchain,ledger,cryptocurrency,decentralized,bitcoin
+Cryptocurrency,bitcoin,digital,coin,blockchain
+Bitcoin,cryptocurrency,digital,coin,blockchain
+Ethereum,cryptocurrency,smart contract,decentralized,blockchain
+Data Science,statistics,analysis,modeling,insight
+Data Engineer,ETL,data pipeline,warehouse,infrastructure
+Data Visualization,chart,graph,plot,data
+Cloud Computing,server,internet,storage,services
+AWS,Amazon,cloud,services,computing
+Azure,Microsoft,cloud,services,computing
+Docker,container,virtualization,software,application
+Kubernetes,orchestration,container,cluster,management
+DevOps,development,operations,automation,CI/CD
+Agile,scrum,methodology,software,development
+Scrum,framework,agile,development,team
+Kanban,board,agile,workflow,task
+Virtual Reality,VR,headset,simulation,immersive
+Augmented Reality,AR,digital,overlay,reality
+Internet of Things,IoT,devices,connected,network
+5G,network,speed,mobile,internet
+Quantum Computing,qubit,superposition,computing,quantum
+Cybersecurity,security,hacking,protection,information
+Encryption,data,secure,algorithm,cryptography
+Firewall,security,network,protection,barrier
+Antivirus,software,malware,protection,computer
+Phishing,scam,email,fraud,identity
+Blockchain,ledger,cryptocurrency,decentralized,bitcoin
+Cloud Storage,data,cloud,internet,files
+API,interface,application,programming,communication
+REST,API,architecture,HTTP,protocol
+GraphQL,API,query,language,data
+Web Development,website,design,frontend,backend
+Frontend,web,UI,design,client-side
+Backend,web,server,logic,databases
+Database,storage,SQL,NoSQL,query
+SQL,query,database,language,relational
+NoSQL,database,document,key-value,non-relational
+ETL,extract,transform,load,data
+Data Warehouse,storage,analytics,data,repository
+Business Intelligence,analytics,data,insight,reporting
+Data Analytics,analysis,statistics,insight,data
+Data Lake,storage,big data,raw,analytics
+Natural Language Processing,NLP,text,language,AI
+Deep Learning,neural network,AI,model,training
+Decision Tree,algorithm,classification,model,branches
+Random Forest,ensemble,algorithm,trees,prediction
+Support Vector Machine,algorithm,classification,margin,hyperplane
+Clustering,grouping,unsupervised,algorithm,similarity
+Regression,analysis,prediction,model,statistics
+Time Series,forecasting,data,sequence,trend
+Supervised Learning,training,labels,data,model
+Unsupervised Learning,patterns,data,clustering,model
+Reinforcement Learning,AI,agent,reward,action
+Big Data,analytics,data,volume,velocity
+Data Governance,management,policy,data,standards
+Data Quality,accuracy,consistency,data,integrity
+Data Cleansing,cleaning,preprocessing,data,error
+Feature Engineering,model,algorithm,data,attributes
+Model Training,AI,algorithm,data,learning
+Hyperparameter Tuning,optimization,model,training,settings
+A/B Testing,experiment,comparison,variation,test
+Churn Prediction,customer,retention,model,analysis
+Sentiment Analysis,opinion,text,emotion,NLP
+Text Mining,analysis,document,extraction,NLP
+Predictive Analytics,forecasting,model,trend,insight
+Anomaly Detection,outlier,model,pattern,abnormal
+Recommender System,recommendation,algorithm,personalization,model
+Data Pipeline,process,data,ETL,workflow
+Data Integration,combination,merge,systems,data
+Data Transformation,convert,process,data,structure
+Real-time Analytics,streaming,data,instant,processing
+Streaming Data,continuous,flow,data,real-time
+Data Lakehouse,storage,warehouse,lake,architecture
+Large Language Model,AI,chatbot,NLP,transformer
+Artificial Neural Network,ANN,model,learning,neuron
+Convolutional Neural Network,CNN,image,deep learning,filter
+Generative Adversarial Network,GAN,AI,generator,discriminator
+Neural Architecture Search,AI,model,optimization,design
+Explainable AI,XAI,transparency,model,decision
+Data Ethics,privacy,ethical,data,AI
+Data Privacy,security,personal,information,protection
+Data Literacy,understanding,skills,interpretation,data
+Data-driven,decision making,analytics,insight,evidence
+Data Scientist,analysis,modeling,insight,data
+Machine Learning Engineer,model,production,AI,development
+Albert Einstein,physics,relativity,genius,scientist
+William Shakespeare,playwright,poet,drama,Elizabethan
+Leonardo da Vinci,artist,renaissance,Mona Lisa,genius
+Marie Curie,scientist,radiation,chemist,physics
+Pablo Picasso,artist,painting,cubism,Spain
+The Great Wall of China,landmark,China,structure,ancient
+Eiffel Tower,Paris,France,landmark,Gustave Eiffel
+Statue of Liberty,New York,statue,freedom,France
+Mount Everest,mountain,highest,Himalayas,climb
+Pyramids of Giza,Egypt,ancient,pharaoh,pyramid
+Mona Lisa,painting,Leonardo da Vinci,Louvre,portrait
+The Beatles,music,band,John Lennon,Paul McCartney
+Michael Jackson,singer,king of pop,dancer,Thriller
+Elvis Presley,singer,king of rock n roll,Graceland
+The Rolling Stones,music,band,Mick Jagger,rock
+Bob Dylan,singer-songwriter,Nobel Prize,music,folk
+The Godfather,film,mafia,Marlon Brando,Al Pacino
+Star Wars,film,space,Skywalker,Darth Vader
+Harry Potter,book,magic,wizard,Hogwarts
+The Lord of the Rings,book,fantasy,J.R.R. Tolkien,Frodo
+The Hobbit,book,fantasy,J.R.R. Tolkien,Middle-earth
+Sherlock Holmes,detective,Arthur Conan Doyle,Watson,mystery
+Pride and Prejudice,book,Jane Austen,romance,Elizabeth Bennet
+Moby-Dick,book,Herman Melville,whale,Captain Ahab
+The Catcher in the Rye,book,J.D. Salinger,Holden Caulfield,novel
+To Kill a Mockingbird,book,Harper Lee,Atticus Finch,Scout
+1984,book,George Orwell,dystopia,Big Brother
+Brave New World,book,Aldous Huxley,dystopia,science fiction
+Romeo and Juliet,play,William Shakespeare,love,tragedy
+Hamlet,play,William Shakespeare,prince,Denmark
+Macbeth,play,William Shakespeare,tragedy,Scotland
+The Odyssey,epic,Greek,Homer,journey
+The Iliad,epic,Greek,Homer,Trojan War
+The Bible,religion,Christianity,holy book,scriptures
+The Quran,religion,Islam,holy book,Muhammad
+The Torah,religion,Judaism,holy book,Old Testament
+Buddha,Buddhism,founder,enlightenment,meditation
+Dalai Lama,Buddhism,Tibet,spiritual leader,peace
+Mahatma Gandhi,India,non-violence,independence,leader
+Nelson Mandela,South Africa,apartheid,freedom,Nobel Prize
+Martin Luther King Jr.,civil rights,USA,dream,speech
+Mother Teresa,charity,saint,Calcutta,Nobel Prize
+Princess Diana,British,royalty,charity,people's princess
+Queen Elizabeth II,Britain,monarchy,royal family,queen
+Winston Churchill,British,prime minister,WWII,orator
+Abraham Lincoln,USA,president,emancipation,Civil War
+George Washington,USA,president,founding father,independence
+Thomas Edison,inventor,light bulb,phonograph,electricity
+Nikola Tesla,inventor,AC power,engineer,scientist
+Isaac Newton,scientist,gravity,physics,calculus
+Galileo Galilei,astronomer,telescope,heliocentrism,Italy
+Wright Brothers,aviation,airplane,flight,inventors
+Neil Armstrong,astronaut,Moon landing,space,first
+Christopher Columbus,explorer,America,discovery,1492
+Marco Polo,explorer,Venice,China,Silk Road
+Charles Darwin,evolution,biology,scientist,origin of species
+Sigmund Freud,psychology,psychoanalysis,unconscious,dreams
+Alexander the Great,conqueror,Greek,empire,Macedonia
+Julius Caesar,Roman,emperor,assassination,leader
+Cleopatra,Egypt,queen,beauty,Mark Antony
+Napoleon Bonaparte,French,emperor,Waterloo,war
+Vladimir Putin,Russia,president,KGB,politician
+Adolf Hitler,Germany,Nazi,WWII,dictator
+Joseph Stalin,Soviet Union,communism,WWII,dictator
+John F. Kennedy,USA,president,assassination,Cuban Missile Crisis
+Richard Nixon,USA,president,Watergate,politics
+Margaret Thatcher,British,prime minister,Iron Lady,conservative
+Fidel Castro,Cuba,communism,leader,Cold War
+Che Guevara,Argentina,revolutionary,Cuba,icon
+Albert Einstein,physics,relativity,genius,scientist
+Marie Curie,scientist,radioactivity,chemistry,Nobel Prize
+Isaac Newton,gravity,physics,apple,scientist
+Charles Darwin,evolution,scientist,biology,natural selection
+Nikola Tesla,inventor,AC electricity,scientist,engineer
+Thomas Edison,inventor,light bulb,phonograph,patent
+Galileo Galilei,astronomer,telescope,heliocentrism,scientist
+Leonardo da Vinci,artist,Mona Lisa,Renaissance,inventor
+Pablo Picasso,artist,cubism,painting,sculpture
+Vincent van Gogh,artist,Starry Night,impressionism,ear
+Claude Monet,artist,impressionism,water lilies,France
+Salvador Dali,artist,Surrealism,melting clocks,moustache
+Andy Warhol,artist,Pop Art,soup cans,celebrity
+Frida Kahlo,artist,Mexico,paintings,self-portrait
+Edvard Munch,artist,The Scream,expressionism,Norway
+Diego Rivera,artist,Mexico,murals,communist
+Michelangelo,artist,Sistine Chapel,sculpture,Renaissance
+Rembrandt,artist,Dutch,Baroque,painting
+Georgia O'Keeffe,artist,flowers,American,Southwest
+Johannes Vermeer,artist,Baroque,The Girl with a Pearl Earring,Dutch
+Burj Khalifa,tallest,building,skyscraper,Dubai
+Palm Jumeirah,artificial,island,Dubai,palm-shaped
+Burj Al Arab,luxury,hotel,Dubai,sail-shaped
+Dubai Mall,shopping,largest,fountain,Dubai
+Dubai Fountain,show,water,dance,lights
+Dubai Marina,waterfront,skyscrapers,Dubai,canal
+Dubai Creek,waterway,Dubai,trade,old town
+Desert Safari,Dubai,dunes,camp,adventure
+Dubai Metro,transport,railway,Dubai,red line
+Atlantis The Palm,hotel,resort,aquarium,waterpark
+Global Village,Dubai,cultural,festival,shopping
+Dubai Opera,arts,performing,music,architecture
+Dubai Miracle Garden,flowers,garden,Dubai,colorful
+Dubai International Airport,DXB,airport,travel,hub
+Emirates Airline,airline,Dubai,carrier,aviation
+Ski Dubai,indoor,skiing,snow,Emirates Mall
+Jumeirah Beach,beach,resort,Dubai,waterfront
+Dubai Frame,landmark,viewpoint,architecture,photography
+JBR Walk,shopping,promenade,Dubai,restaurants
+Dubai Parks and Resorts,theme park,entertainment,Dubai,Legoland
+Michael Jordan,basketball,NBA,Chicago Bulls,23
+Lionel Messi,soccer,Barcelona,Argentina,GOAT
+Cristiano Ronaldo,soccer,Portugal,Real Madrid,Juventus
+LeBron James,basketball,NBA,Lakers,Cavaliers
+Serena Williams,tennis,Grand Slam,Wimbledon,US Open
+Usain Bolt,athletics,100m,Olympics,Jamaica
+Roger Federer,tennis,Grand Slam,Wimbledon,Swiss
+Tiger Woods,golf,PGA,Masters,US Open
+Michael Phelps,swimming,Olympics,medals,USA
+Muhammad Ali,boxing,heavyweight,champion,Cassius Clay
+Tom Brady,football,NFL,quarterback,Super Bowl
+Simone Biles,gymnastics,Olympics,USA,gold medals
+Kobe Bryant,basketball,NBA,Lakers,Black Mamba
+Pele,soccer,Brazil,World Cup,Santos
+Diego Maradona,soccer,Argentina,Napoli,Hand of God
+Rafael Nadal,tennis,Grand Slam,clay,Spanish
+Novak Djokovic,tennis,Grand Slam,Serbia,Wimbledon
+Lewis Hamilton,F1,racing,Mercedes,champion
+Wayne Gretzky,hockey,NHL,Edmonton Oilers,The Great One
+Shaquille O'Neal,basketball,NBA,Lakers,center
+David Beckham,soccer,England,Manchester United,LA Galaxy
+Babe Ruth,baseball,MLB,Yankees,home run
+Steph Curry,basketball,NBA,Warriors,three-point
+Zlatan Ibrahimovic,soccer,Sweden,AC Milan,LA Galaxy
+Neymar,soccer,Brazil,PSG,Barcelona
+Manny Pacquiao,boxing,Philippines,champion,pound-for-pound
+Kylian Mbappe,soccer,France,PSG,World Cup
+Lewis Hamilton,F1,racing,Mercedes,champion
+Roger Bannister,athletics,4 minute mile,runner,record
+Jackie Robinson,baseball,MLB,Brooklyn Dodgers,42
+Tiger Woods,golf,Masters,PGA,Augusta
+Sachin Tendulkar,cricket,India,Little Master,batting
+Virat Kohli,cricket,India,captain,Royal Challengers Bangalore
+LeBron James,basketball,NBA,Cleveland Cavaliers,Lakers
+Magic Johnson,basketball,NBA,Lakers,point guard
+Larry Bird,basketball,NBA,Boston Celtics,forward
+Mia Hamm,soccer,USA,World Cup,Olympics
+Danica Patrick,racing,NASCAR,IndyCar,trailblazer
+Cristiano Ronaldo,soccer,Manchester United,Juventus,Portugal
+Alex Morgan,soccer,USA,Orlando Pride,Olympics
+Ronda Rousey,MMA,UFC,wrestling,Olympics
+Serena Williams,tennis,Grand Slam,Williams Sisters,Olympics
+Venus Williams,tennis,Grand Slam,Williams Sisters,Olympics
+Andre Agassi,tennis,Grand Slam,USA,Las Vegas
+Billie Jean King,tennis,Grand Slam,gender equality,Battle of the Sexes
+Michael Schumacher,F1,driver,champion,Ferrari
+Lionel Messi,soccer,Argentina,PSG,GOAT
+Cristiano Ronaldo,soccer,Portugal,Juventus,Real Madrid
+Usain Bolt,athletics,Olympics,100m,Jamaica
+Muhammad Ali,boxing,heavyweight,champion,Cassius Clay
+Ronda Rousey,MMA,UFC,wrestling,Olympics
+Mike Tyson,boxing,heavyweight,champion,Iron Mike
+Lewis Hamilton,F1,Mercedes,racing,champion
+Tom Brady,football,NFL,quarterback,Super Bowl
+Roger Federer,tennis,Grand Slam,Swiss,Wimbledon
+Rafael Nadal,tennis,Grand Slam,clay,Spanish
+Novak Djokovic,tennis,Grand Slam,Serbia,Wimbledon
+Simone Biles,gymnastics,USA,Olympics,gold medals
+Kobe Bryant,basketball,Lakers,NBA,Black Mamba
+Michael Jordan,basketball,NBA,Chicago Bulls,23
+Larry Bird,basketball,Boston Celtics,NBA,forward
+Magic Johnson,basketball,Lakers,NBA,point guard
+Shaquille O'Neal,basketball,Lakers,NBA,center
+Wayne Gretzky,hockey,NHL,Edmonton Oilers,The Great One
+David Beckham,soccer,Manchester United,England,LA Galaxy
+Pele,soccer,Brazil,World Cup,Santos
+Diego Maradona,soccer,Argentina,Napoli,Hand of God
+Zinedine Zidane,soccer,France,Real Madrid,midfielder
+Franz Beckenbauer,soccer,Germany,defender,Bayern Munich
+Johan Cruyff,soccer,Netherlands,Ajax,Barcelona
+George Best,soccer,Northern Ireland,Manchester United,winger
+Michel Platini,soccer,France,midfielder,UEFA
+Alfredo Di Stefano,soccer,Argentina,Real Madrid,forward
+Eusebio,soccer,Portugal,Benfica,Black Panther
+Roberto Baggio,soccer,Italy,forward,Divine Ponytail
+Luis Figo,soccer,Portugal,Real Madrid,Barcelona
+Andres Iniesta,soccer,Spain,Barcelona,midfielder
+Paolo Maldini,soccer,Italy,AC Milan,defender
+Francesco Totti,soccer,Italy,AS Roma,forward
+Steven Gerrard,soccer,England,Liverpool,midfielder
+Thierry Henry,soccer,France,Arsenal,forward
+Ruud Gullit,soccer,Netherlands,AC Milan,forward
+Marco van Basten,soccer,Netherlands,AC Milan,forward
+Roberto Carlos,soccer,Brazil,Real Madrid,defender
+George Weah,soccer,Liberia,AC Milan,forward
+Clarence Seedorf,soccer,Netherlands,AC Milan,midfielder
+Ryan Giggs,soccer,Wales,Manchester United,winger
+Fernando Torres,soccer,Spain,Liverpool,Chelsea
+Xavi Hernandez,soccer,Spain,Barcelona,midfielder
+Carlos Valderrama,soccer,Colombia,midfielder,hairstyle
+Didier Drogba,soccer,Ivory Coast,Chelsea,forward
+Ronaldinho,soccer,Brazil,Barcelona,smiling
+Mount Everest,mountain,highest,Himalayas,Nepal
+Amazon River,river,South America,Brazil,largest
+Sahara Desert,desert,Africa,largest,dry
+Nile River,river,Egypt,longest,Africa
+Grand Canyon,canyon,Arizona,USA,natural wonder
+Great Wall of China,wall,China,ancient,landmark
+Mount Kilimanjaro,mountain,Africa,Tanzania,highest
+Great Barrier Reef,coral,reef,Australia,marine
+Himalayas,mountains,Asia,highest,range
+Amazon Rainforest,forest,Brazil,South America,jungle
+Rocky Mountains,mountains,North America,USA,Canada
+Andes Mountains,mountains,South America,longest,range
+Gobi Desert,desert,Asia,Mongolia,China
+Sahara Desert,desert,Africa,largest,hot
+Mediterranean Sea,sea,Europe,Africa,Asia
+Arctic Ocean,ocean,North Pole,cold,ice
+Antarctica,continent,ice,south pole,desert
+Suez Canal,canal,Egypt,trade,waterway
+Panama Canal,canal,Panama,Atlantic,Pacific
+Mount Fuji,mountain,Japan,volcano,highest
+Alps,mountains,Europe,Switzerland,France
+Great Lakes,lakes,North America,USA,Canada
+Lake Victoria,lake,Africa,Tanzania,Uganda
+Niagara Falls,waterfall,USA,Canada,Ontario
+Angel Falls,waterfall,Venezuela,tallest,water
+Ganges River,river,India,sacred,Ganga
+Yangtze River,river,China,longest,Asia
+Mississippi River,river,USA,Missouri,Mississippi
+Eiffel Tower,Paris,France,landmark,iron
+Statue of Liberty,New York,USA,statue,freedom
+Sydney Opera House,Sydney,Australia,architecture,landmark
+Taj Mahal,India,Agra,mausoleum,marble
+Machu Picchu,Peru,Inca,ruins,ancient
+Colosseum,Rome,Italy,ancient,amphitheater
+Stonehenge,England,ancient,monument,stones
+Mount Rushmore,USA,South Dakota,presidents,sculpture
+Great Pyramid of Giza,Egypt,ancient,pharaoh,Cheops
+Victoria Falls,waterfall,Zambia,Zimbabwe,Africa
+Dead Sea,salt,sea,lowest,Jordan
+Lake Baikal,lake,Russia,deepest,Siberia
+K2,mountain,Pakistan,second highest,Karakoram
+Patagonia,region,Argentina,Chile,South America
+Galapagos Islands,islands,Ecuador,Pacific,evolution
+Serengeti,plain,Tanzania,wildlife,safari
+Mount Vesuvius,volcano,Italy,Naples,eruption
+Matterhorn,mountain,Alps,Switzerland,Italy
+Yellowstone National Park,USA,Wyoming,geysers,wildlife
+Siberia,region,Russia,Asia,cold
+Cape of Good Hope,cape,South Africa,ocean,Atlantic
+Bering Strait,strait,Asia,North America,water
+Caspian Sea,sea,Asia,Europe,largest lake
+Red Sea,sea,Egypt,Saudi Arabia,Jordan
+Persian Gulf,gulf,Middle East,oil,water
+Lake Superior,lake,Great Lakes,USA,Canada
+Iceland,island,geysers,volcanoes,Arctic
+Madagascar,island,Africa,Indian Ocean,unique
+Greenland,island,Denmark,ice,largest
+Svalbard,archipelago,Norway,Arctic,polar bears
+Congo River,river,Africa,second longest,basin
+Volga River,river,Russia,longest,Europe
+Mekong River,river,Southeast Asia,Vietnam,Cambodia
+Atacama Desert,desert,Chile,driest,South America
+Caribbean Sea,sea,Caribbean,West Indies,tropical
+Philippine Sea,sea,Pacific Ocean,Philippines,Asia
+Hudson Bay,bay,Canada,Arctic,large
+Tigris River,river,Iraq,Middle East,Mesopotamia
+Euphrates River,river,Iraq,Syria,Mesopotamia
+Lake Titicaca,lake,Peru,Bolivia,highest
+Gobi Desert,desert,Asia,Mongolia,China
+Yellow River,river,China,Huang He,Asia
+Danube River,river,Europe,Germany,Black Sea
+Rhine River,river,Europe,Germany,Netherlands
+Great Plains,plains,USA,grassland,central
+Sierra Nevada,mountains,USA,California,Nevada
+Hawaii,islands,USA,Pacific,tropical
+Fiji,islands,Pacific,tropical,ocean
+Mount Everest,mountain,Himalayas,highest,Nepal
+Mount Elbrus,mountain,Europe,Russia,Caucasus
+Atlas Mountains,mountains,Africa,Morocco,Algeria
+Appalachian Mountains,mountains,USA,East Coast,range
+Pyrenees,mountains,France,Spain,Europe
+New Zealand,island,Pacific,Kiwi,Aotearoa
+Tasmania,island,Australia,Devil,Hobart
+Kalahari Desert,desert,Africa,Botswana,Namibia
+Yosemite National Park,USA,California,granite,waterfalls
+Sahara Desert,desert,Africa,sand,largest
+Blue Nile,river,Africa,Ethiopia,Sudan
+Mount McKinley,mountain,Denali,Alaska,highest North America
+Nile Delta,delta,Egypt,river,Mediterranean
+Lake Michigan,lake,Great Lakes,USA,Chicago
+Mojave Desert,desert,USA,California,Nevada
+Mount St. Helens,volcano,USA,Washington,eruption
+Gulf of Mexico,gulf,USA,Mexico,water
+Lake Tanganyika,lake,Africa,second deepest,Congo
+Patagonia,region,Argentina,Chile,Andes
+Ural Mountains,mountains,Russia,Asia,Europe
+Alexander the Great,Greece,Macedonia,conqueror,empire
+Genghis Khan,Mongolia,empire,conqueror,Asia
+Cleopatra,Egypt,queen,Mark Antony,ancient
+Julius Caesar,Rome,emperor,assassination,Gaul
+Hannibal,Carthage,elephants,Rome,Punic Wars
+Charlemagne,Frankish Empire,Europe,emperor,medieval
+Joan of Arc,France,saint,warrior,Hundred Years' War
+Napoleon Bonaparte,France,emperor,Waterloo,conqueror
+Vlad the Impaler,Dracula,Transylvania,Romania,prince
+Ivan the Terrible,Russia,tsar,autocrat,16th century
+Catherine the Great,Russia,empress,expansion,Enlightenment
+Peter the Great,Russia,tsar,modernization,St. Petersburg
+Leonardo da Vinci,Renaissance,artist,inventor,Italy
+Michelangelo,Renaissance,artist,Sistine Chapel,David
+Galileo Galilei,Italy,astronomy,telescope,heliocentrism
+Nicolaus Copernicus,Poland,astronomy,heliocentric,universe
+Isaac Newton,England,scientist,gravity,principia
+William Shakespeare,England,playwright,dramatist,Elizabethan
+Queen Elizabeth I,England,monarch,Golden Age,Tudor
+Queen Victoria,England,monarch,Victorian era,British Empire
+The Roman Empire,Rome,ancient,empire,Italy
+The Byzantine Empire,Constantinople,Byzantium,Orthodox,empire
+The Ottoman Empire,Turkey,Constantinople,sultan,Islam
+The Persian Empire,Iran,ancient,Cyrus the Great,Darius
+The Mughal Empire,India,Islam,Akbar,architecture
+The Maurya Empire,India,Chandragupta,Ashoka,Buddhism
+The Gupta Empire,India,Golden Age,science,art
+The British Raj,India,colonial,empire,British
+The Qing Dynasty,China,dynasty,Manchu,imperial
+The Ming Dynasty,China,Great Wall,Forbidden City,dynasty
+The Silk Road,trade,China,Asia,Europe
+The Crusades,Europe,Middle Ages,Jerusalem,holy wars
+The Black Death,plague,Europe,Middle Ages,epidemic
+The Renaissance,Europe,art,reawakening,Italy
+The Reformation,Europe,Martin Luther,Protestant,church
+The French Revolution,France,Bastille,Robespierre,Liberty
+The Russian Revolution,Russia,Bolshevik,Lenin,1917
+The Industrial Revolution,Europe,steam engine,factory,technology
+The Great Depression,global,economy,1929,unemployment
+The World Wars,global,conflict,WWI,WWII
+The Cold War,USA,USSR,nuclear,ideology
+The Berlin Wall,Germany,division,Cold War,East and West
+Mahatma Gandhi,India,non-violence,independence,Mahatma
+Jawaharlal Nehru,India,prime minister,independence,congress
+Indira Gandhi,India,prime minister,emergency,dynasty
+Buddha,India,Buddhism,enlightenment,Siddhartha Gautama
+Confucius,China,philosopher,ethics,Analects
+Laozi,China,philosopher,Taoism,Daodejing
+Sun Tzu,China,philosopher,The Art of War,strategist
+Kublai Khan,Mongolia,China,Yuan Dynasty,emperor
+Marco Polo,Venice,explorer,China,Silk Road
+Ferdinand Magellan,Portugal,explorer,circumnavigation,strait
+Christopher Columbus,Spain,explorer,New World,1492
+Vasco da Gama,Portugal,explorer,India,cape of good hope
+James Cook,England,explorer,Australia,Pacific
+Hernán Cortés,Spain,conquistador,Aztec,conquest
+Francisco Pizarro,Spain,conquistador,Inca,Peru
