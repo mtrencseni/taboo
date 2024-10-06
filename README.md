@@ -9,13 +9,13 @@ Running your custom Taboo server is straightforward. Follow these steps to set i
 ### 1. Clone the Repository and Navigate to the Directory
 
 ```bash
-git clone https://github.com/yourusername/taboo_game_server.git
-cd taboo_game_server
+git clone https://github.com/mtrencseni/taboo.git
+cd taboo
 ```
 
-### 2. Prepare the `challenges.txt` File
+### 2. Optional: Edit the `challenges.csv` File
 
-Create a `challenges.txt` file containing Taboo words and their forbidden words in CSV format. For example:
+Edit the `challenges.csv` file containing Taboo words and their forbidden words in CSV format, or just use the one provided. For example:
 
 ```
 Python,programming,language,code,snake
@@ -25,17 +25,17 @@ Eiffel Tower,Paris,France,landmark,iron
 ### 3. Run the Server
 
 ```bash
-python3 taboo_server.py <port> <challenge_file> <turns> <turn_length_secs>
+python3 taboo.py <port> <challenge_file> <turns> <turn_length_secs>
 ```
 
 **Example**:
 
 ```bash
-python3 taboo_server.py 12345 challenges.txt 10 60
+python3 taboo.py 12345 challenges.csv 10 60
 ```
 
 - **12345**: The port number the server will listen on.
-- **challenges.txt**: The file containing game challenges.
+- **challenges.csv**: The file containing game challenges.
 - **10**: The number of turns in the game.
 - **60**: The length of each turn in seconds.
 
